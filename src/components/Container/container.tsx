@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import './container.css';
+import './container.scss';
 
 interface Props {
   children: JSX.Element;

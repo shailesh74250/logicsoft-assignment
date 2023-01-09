@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import './card.css';
+import './card.scss';
 
 interface Props {
   children: JSX.Element;

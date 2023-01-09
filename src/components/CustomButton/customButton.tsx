@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
 import { Button } from 'antd';
-import './customButton.css';
+import './customButton.scss';
 
 interface Props {
   children: string;
