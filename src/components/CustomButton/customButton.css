@@ -1,0 +1,8 @@
+.button_outline {
+    color: #74a6e3;
+    border-color: #74a6e3;
+}
+.button_outline:hover {
+    color: #0058c3;
+    border-color: #03489d;
+}
